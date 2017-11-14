@@ -1,4 +1,4 @@
-# step-cmake-cpack [![wercker status](https://app.wercker.com/status/b37900dc41e6dae0b0c7f3b397f6f7f7/s "wercker status")](https://app.wercker.com/project/bykey/b37900dc41e6dae0b0c7f3b397f6f7f7)
+# step-cmake-cpack [![wercker status](https://app.wercker.com/status/b27afc5a0386df681835725ac18a487f/s "wercker status")](https://app.wercker.com/project/bykey/b27afc5a0386df681835725ac18a487f)
 
 Wercker step to create debian package using CPack with CMake
 
