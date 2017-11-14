@@ -1,5 +1,5 @@
 name: cmake-cpack
-version: 0.0.2
+version: 0.0.3
 description: generate debian package using cpack with cmake
 properties:
   cmake_arguments:
@@ -13,4 +13,8 @@ properties:
   cmake_build_dir:
     type: string
     default: $WERCKER_ROOT/build
+    required: false
+  clear_build_dir:
+    type: string
+    default: true
     required: false
