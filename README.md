@@ -17,5 +17,5 @@ build:
         cmake_arguments: -D FOO=BAR
         cmake_source_path: /foo/bar
         cmake_build_dir: /foo/bar/build
-        clear_build_dir: true
+        clear_build_dir: false
 ```
