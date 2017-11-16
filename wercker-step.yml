@@ -16,5 +16,5 @@ properties:
     required: false
   clear_build_dir:
     type: string
-    default: true
+    default: "true"
     required: false
