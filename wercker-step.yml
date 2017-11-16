@@ -1,5 +1,5 @@
 name: cmake-cpack
-version: 0.0.3
+version: 0.0.4
 description: generate debian package using cpack with cmake
 properties:
   cmake_arguments:
